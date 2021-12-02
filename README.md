@@ -3,6 +3,7 @@
 Multi-class sentiment analysis problem to classify texts into eight emotion categories: joy, sadness, anger, fear, neutral, disgust, shame, surprise 
 
 ## Deployment Link: https://mood123.herokuapp.com/
+The deployment is done on Heroku with the help of Streamlit
 
 ## Description
 Mood detection is a technique used in software that allows a program to predict the emotions of a person by understanding the context of the texts provided bythe same. Companies have been experimenting with combining sophisticated algorithms that have emerged in the past ten years to understand more about the extent of replicating the emotions of a person by just texts or language spoken.
@@ -44,3 +45,5 @@ Mood detection is a technique used in software that allows a program to predict 
 - Pycharm
 - Streamlit
 - Heroku
+
+### Thank You! 😃
